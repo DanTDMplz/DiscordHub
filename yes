@@ -1,0 +1,4 @@
+local code = code1
+if code = "yes" then
+print("lol")
+end
